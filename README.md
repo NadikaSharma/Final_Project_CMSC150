@@ -1,2 +1,4 @@
 # Final_Project_CMSC150
-Repository for final project of CMSC 150
+This repository is for the final project of CMSC 150. This project is a tic tac toe played between two players where each player gets to choose their own symbol and player 1 goes first, then player 2. The game ends when one of the players has won and the winner's name is displayed too. I have made three different classes in which one is for the board, second is the game runner an the third is for the names and symbols of players. I used scanner.  
+I took help from tutors, friends and my brother to outline what the game could look like. They all helped me generate the ideas and I wrote the code and also commented to make the users clear about what is going on in the code. 
+To run the program, just copy and paste all the files in VS code in different files and run the Game.java program then the game will begin. All the files and sources needed to run this game is provided. 
